@@ -1,0 +1,46 @@
+{
+    "apiKey": [
+        {
+            "url_madre": "https://www.videoland.com/nl/;53608",
+            "etiqueta": "gigya",
+            "url": "//cdns.gigya.com/js/gigya.js?apiKey=3_t2Z1dFrbWR-IjcC-Bod1kei6W91UKmeiu3dETVG5iKaY4ILBRzVsmgRHWWo0fqqd",
+            "api_key": "3_t2Z1dFrbWR-IjcC-Bod1kei6W91UKmeiu3dETVG5iKaY4ILBRzVsmgRHWWo0fqqd"
+        }
+    ]
+}
+{
+    "token": [
+        {
+            "url_madre": "https://www.videoland.com/inloggen",
+            "etiqueta": "desconocido",
+            "url": "https://www.videoland.com/inloggen",
+            "api_key": null
+        }
+    ],
+    "gigya_key": [
+        {
+            "url_madre": "https://www.videoland.com/inloggen",
+            "etiqueta": "desconocido",
+            "url": "https://www.videoland.com/inloggen",
+            "api_key": null
+        }
+    ]
+}
+{
+    "apikey": [
+        {
+            "url_madre": "https://www.yasss.es/;135139",
+            "etiqueta": "gigya",
+            "url": "https://cdns.gigya.com/js/gigya.js?apikey=3_6c6E7C197LeUAlcFUSZhaJE_C6LsOgYWL1unkRWIHhn_kh3-QfaAlnywfAWF4Bv_&lang=es",
+            "api_key": "3_6c6E7C197LeUAlcFUSZhaJE_C6LsOgYWL1unkRWIHhn_kh3-QfaAlnywfAWF4Bv_"
+        }
+    ],
+    "secret": [
+        {
+            "url_madre": "https://www.yasss.es/;135139",
+            "etiqueta": "desconocido",
+            "url": "https://www.yasss.es/;135139",
+            "api_key": null
+        }
+    ]
+}
